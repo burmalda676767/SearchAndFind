@@ -1,1 +1,3 @@
-print("Hello GitHub!")
+def HelloWorld(func):
+    func("Hello World!")
+HelloWorld(print)
