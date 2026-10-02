@@ -1,0 +1,12 @@
+import colorama
+
+# init - запуск колорами
+# deinit - вимкнення колорами
+# reinit - повторний запуск
+# just_fix_windows_console - виправлення консолі
+# colorama_text - контекстний вивід
+# AnsiToWin32 - перетворення ansi
+# Fore - колір тексту
+# Back - колір фону
+# Style - стиль тексту
+# Cursor - рух курсора
